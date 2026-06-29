@@ -3,7 +3,7 @@
 </p>
 # 🌞 Arduino Dual-Axis Solar Tracking System
 
-![Banner](Banner(2).png)
+![Banner](Banner (2).png)
 
 > An Arduino-based Dual-Axis Solar Tracking System that automatically tracks the sun using four LDR sensors and two servo motors to maximize solar energy generation.
 
