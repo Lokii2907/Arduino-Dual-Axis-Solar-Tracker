@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner (2).png" alt="Dual Axis Solar Tracker Banner" width="100%">
+  <img src="images/Banner (2).png" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
 # 🌞 Arduino Dual-Axis Solar Tracking System
 
@@ -49,7 +49,7 @@ This project automatically aligns a solar panel with the direction of maximum su
 # 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="circuit.png" alt="Dual Axis Solar Tracker Banner" width="100%">
+  <img src="images/circuit.png" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
 
 ---
@@ -69,19 +69,19 @@ This project automatically aligns a solar panel with the direction of maximum su
 ### Hardware Setup
 
 <p align="center">
-  <img src="setup(2).jpg" alt="Dual Axis Solar Tracker Banner" width="100%">
+  <img src="images/setup(2).jpg" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
 
 ### Working Model
 
 <p align="center">
-  <img src="setup.JPG" alt="Dual Axis Solar Tracker Banner" width="100%">
+  <img src="images/setup.JPG" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
 
 ### Demo
 
 <p align="center">
-  <img src="working.gif" alt="Dual Axis Solar Tracker Banner" width="100%">
+  <img src="images/working.gif" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
 
 
