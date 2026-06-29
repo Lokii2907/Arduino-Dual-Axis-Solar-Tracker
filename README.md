@@ -69,13 +69,19 @@ This project automatically aligns a solar panel with the direction of maximum su
 ### Hardware Setup
 
 <p align="center">
-  <img src="setup(2).JPG" alt="Dual Axis Solar Tracker Banner" width="100%">
+  <img src="setup(2).jpg" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
 
 ### Working Model
 
 <p align="center">
   <img src="setup.JPG" alt="Dual Axis Solar Tracker Banner" width="100%">
+</p>
+
+### Demo
+
+<p align="center">
+  <img src="working.gif" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
 
 
