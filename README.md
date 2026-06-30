@@ -1,6 +1,11 @@
 <p align="center">
   <img src="images/banner.png" alt="Dual Axis Solar Tracker Banner" width="100%">
 </p>
+## 📖 Project Overview
+
+The Arduino Dual-Axis Solar Tracking System automatically tracks the position of the sun using four LDR sensors and two servo motors.
+
+Unlike fixed solar panels, this system continuously adjusts both the horizontal and vertical angles of the panel to maximize sunlight exposure and improve energy generation.
 # 🌞 Arduino Dual-Axis Solar Tracking System
 
 
@@ -112,3 +117,4 @@ This project automatically aligns a solar panel with the direction of maximum su
 # 💻 Arduino Code
 
 The complete Arduino code is available in:
+The Arduino source code is available in the `code` folder.
